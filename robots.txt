@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.aiverse.help/sitemap.xml
+Sitemap: https://aiverse.help/sitemap.xml
